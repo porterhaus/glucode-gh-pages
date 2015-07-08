@@ -39,7 +39,7 @@
 .logo-text.primary {
   color: #fff;
   padding-top: 3rem;
-  font-family: 'AvenirNext-UltraLight' !important;
+  font-family: 'AvenirNext-UltraLight';
   font-size: 5rem;
   line-height: 1;
   padding-top: 0;
@@ -77,3 +77,28 @@
   margin: 0 auto;
   padding-bottom: .25rem;
 }
+.content {
+  padding-bottom: 2rem !important;
+}
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 100px;
+  color: #767676;
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+  font-weight: normal;
+}
+.footer p {
+  margin: 0 !important;
+}
+.footer-splash {
+
+}
+.icon svg {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+}
+

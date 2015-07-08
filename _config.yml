@@ -9,7 +9,7 @@ title:               glucode
 tagline:             'A simple API for T1 diabetic blood glucose monitoring'
 description:         'Made by <a href="https://twitter.com/iamporterhaus" target="_blank">@iamporterhaus</a>.'
 url:                 http://lanyon.getpoole.com
-baseurl:             '/glucode'
+baseurl:             ''
 paginate:            5
 
 # About/contact
@@ -20,4 +20,6 @@ email:             markdotto@gmail.com
 
 # Custom vars
 version:           1.0.0
-appname:           meter
+github_username:   porterhaus
+github_repo:       https://github.com/porterhaus/glucode
+appname:           METER
